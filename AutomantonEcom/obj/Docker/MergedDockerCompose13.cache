@@ -1,0 +1,31 @@
+name: dockercompose16927214013844219824
+services:
+  catalog.api:
+    build:
+      context: C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom
+      dockerfile: Services/Catalog/Catalog.API/Dockerfile
+    image: catalogapi
+    networks:
+      default: null
+  catalogdb:
+    environment:
+      POSTGRES_DB: citizix_db
+      POSTGRES_PASSWORD: S3cret
+      POSTGRES_USER: citizix_user
+    image: postgres:14-alpine
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\91932\apps\postgres
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose16927214013844219824_default

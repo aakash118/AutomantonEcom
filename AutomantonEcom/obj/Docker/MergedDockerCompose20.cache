@@ -1,0 +1,25 @@
+name: dockercompose16927214013844219824
+services:
+  catalogdb:
+    container_name: alpha
+    environment:
+      POSTGRES_DB: catalogDB
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:14-alpine
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\91932\apps\postgres
+        target: /var/lib/postgresql/data
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose16927214013844219824_default
