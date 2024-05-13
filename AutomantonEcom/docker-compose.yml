@@ -1,6 +1,15 @@
-version: '3.4'
+# version: '4.29'
+
+# services:
+#   catalogdb:
+#     image: postgres:14-alpine
+
+version: '3.9'
 
 services:
   catalogdb:
-    image: postgres:14-alpine
+    image: postgres
+
+volumes:
+  postgres_catalog:
     

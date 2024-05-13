@@ -1,13 +1,40 @@
-version: '3.4'
+# version: '4.29'
+
+# services:
+#   catalogdb:
+#     container_name: catalogDB
+#     ports:
+#       - 5432:5432
+#     volumes:
+#       - ~/apps/postgres:/var/lib/postgresql/data
+#     environment:
+#       - POSTGRES_PASSWORD=postgres
+#       - POSTGRES_USER=postgres
+#       - POSTGRES_DB=catalogDB
+#     restart: always
+
+version: '3.9'
 
 services:
+
   catalogdb:
-    container_name: catalogDB
+    
+    container_name: catalogdb_container
+    restart: always
+    # set shared memory limit when using docker-compose
+    shm_size: 128mb
+   
     ports:
       - 5432:5432
-    volumes:
-      - ~/apps/postgres:/var/lib/postgresql/data
+   
     environment:
-      - POSTGRES_PASSWORD=postgres
-      - POSTGRES_USER=postgres
-      - POSTGRES_DB=catalogDB
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgress
+      POSTGRES_DB: catalogDB
+    volumes:
+      - postgres_catalog:/var/lib/postgresql/data
+  # adminer:
+  #   image: adminer
+  #   restart: always
+  #   ports:
+  #     - 8080:8080
