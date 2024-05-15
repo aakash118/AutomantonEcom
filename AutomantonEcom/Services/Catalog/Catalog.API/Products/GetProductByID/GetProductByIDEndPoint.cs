@@ -1,7 +1,5 @@
 ﻿
 
-using Catalog.API.Models;
-
 namespace Catalog.API.Products.GetProductByID
 {
     public class GetProductByIDEndPoint : ICarterModule

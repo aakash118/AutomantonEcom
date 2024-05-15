@@ -1,7 +1,4 @@
-﻿using BuildingBlocks.CQRS;
-using Catalog.API.Models;
-using Catalog.API.Products.GetProduct;
-using Marten;
+﻿
 
 namespace Catalog.API.Products.GetProductByID
 {
@@ -12,6 +9,11 @@ namespace Catalog.API.Products.GetProductByID
         public async Task<GetProductResult> Handle(GetPoductIDByQuery request, CancellationToken cancellationToken)
         {
             var product = await session.Query<Product>().Where(x => x.ID == request.ID).FirstOrDefaultAsync();
+            if (product is null)
+            {
+                throw new ProductNotFoundException();
+            }
+
             return new GetProductResult(product!);
         }
     }

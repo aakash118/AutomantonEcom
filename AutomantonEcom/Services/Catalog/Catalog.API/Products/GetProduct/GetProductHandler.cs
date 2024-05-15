@@ -1,8 +1,4 @@
-﻿using BuildingBlocks.CQRS;
-using Catalog.API.Models;
-using Marten;
-
-namespace Catalog.API.Products.GetProduct
+﻿namespace Catalog.API.Products.GetProduct
 {
     public record GetProductQuery() : IQuery<GetProductQueryResult>;
     public record GetProductQueryResult(IReadOnlyList<Product> Products);
