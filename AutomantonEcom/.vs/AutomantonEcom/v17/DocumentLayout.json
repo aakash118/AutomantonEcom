@@ -3,16 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\exceptions\\handler\\customexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\behaviour\\customvalidationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\behaviour\\customvalidationpipelinebehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\exceptions\\exceptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\exceptions\\exceptiondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\exceptions\\productnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\catalog.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproductbyid\\getproductbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\deleteproduct\\deletevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deletevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\updateproduct\\updateproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\createproduct\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\updateproduct\\updateproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,20 +87,8 @@
       "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\getproduct\\getproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\deleteproduct\\deleteproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -106,14 +142,6 @@
       "RelativeMoniker": "D:0:0:{211796B1-B6BB-42BE-B688-44FFDDC0CD3E}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632A9A-E933-472B-ABB0-E673E6C5C7C4}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\91932\\source\\repos\\automantonecom\\automantonecom\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88BB9C21-2816-4321-B023-8D87527F089F}|BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|solutionrelative:buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -129,128 +157,180 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductNotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:08:25.388Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GetProductByIDEndPoint.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:30:16.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GetProductByIDHandler.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "CustomExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\Handler\\CustomExceptionHandler.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAArwDgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T05:29:59.778Z",
+              "WhenOpened": "2024-05-15T06:09:41.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeleteValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteValidator.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteValidator.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:56:36.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T05:57:40.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UpdateProductEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:11:37.87Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
               "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T10:13:55.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GetProductByCategoryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "ExceptionDetails.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ExceptionDetails.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\ExceptionDetails.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\ExceptionDetails.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\ExceptionDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T02:44:40.305Z",
+              "WhenOpened": "2024-05-15T06:26:43.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T03:11:55.808Z",
+              "WhenOpened": "2024-05-15T05:48:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomValidationPipelineBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Behaviour\\CustomValidationPipelineBehaviour.cs",
+              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\Behaviour\\CustomValidationPipelineBehaviour.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\Behaviour\\CustomValidationPipelineBehaviour.cs",
+              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\Behaviour\\CustomValidationPipelineBehaviour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:47:00.906Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GetProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
+              "Title": "Catalog.API",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T06:07:12.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Exceptions\\ProductNotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:49:49.54Z",
+              "WhenOpened": "2024-05-14T06:08:25.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GetProductEndPoint.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAIA8wBcAAAAIAAAA",
+              "Title": "GetProductByIDHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBAAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T04:50:17.856Z",
+              "WhenOpened": "2024-05-13T05:29:59.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
+              "Title": "CreateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:41:52.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:21:03.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductValidator.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductValidator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T04:25:03.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "DeleteProductHandler.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductHandler.cs",
@@ -263,7 +343,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
+              "Title": "CreateProductEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:20:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetProductByIDEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByID\\GetProductByIDEndPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:30:16.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:11:37.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProductByCategoryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:44:40.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\UpdateProduct\\UpdateProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T03:11:55.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:49:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetProductEndPoint.cs",
+              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
+              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\GetProduct\\GetProductEndPoint.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAnwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T04:50:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "DeleteProductEndPoint.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\DeleteProduct\\DeleteProductEndPoint.cs",
@@ -276,33 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:21:03.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateProductEndPoint.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Products\\CreateProduct\\CreateProductEndPoint.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:20:24.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -315,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Properties\\launchSettings.json",
@@ -328,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
               "Title": "GetProductByCategoryEndPoiint.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndPoiint.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Products\\GetProductByCategory\\GetProductByCategoryEndPoiint.cs",
@@ -341,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 23,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
@@ -354,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "docker-compose.dcproj",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\docker-compose.dcproj",
               "RelativeDocumentMoniker": "docker-compose.dcproj",
@@ -362,11 +507,12 @@
               "RelativeToolTip": "docker-compose.dcproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-11T14:16:00.754Z"
+              "WhenOpened": "2024-05-11T14:16:00.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Dockerfile",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Dockerfile",
@@ -374,11 +520,12 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Dockerfile",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-11T14:11:57.035Z"
+              "WhenOpened": "2024-05-11T14:11:57.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
@@ -386,11 +533,12 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T07:08:45.559Z"
+              "WhenOpened": "2024-05-11T07:08:45.559Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 27,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\appsettings.json",
@@ -398,11 +546,12 @@
               "RelativeToolTip": "Services\\Catalog\\Catalog.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-11T13:25:41.129Z"
+              "WhenOpened": "2024-05-11T13:25:41.129Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
@@ -410,11 +559,12 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
               "ViewState": "AQIAAJkBAAAAAAAAAAAwwKgBAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-11T13:30:32.633Z"
+              "WhenOpened": "2024-05-11T13:30:32.633Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 29,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -422,35 +572,38 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-11T14:10:03.537Z"
+              "WhenOpened": "2024-05-11T14:10:03.537Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 28,
               "Title": "docker-compose.override.yml",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\docker-compose.override.yml",
               "RelativeDocumentMoniker": "docker-compose.override.yml",
               "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\docker-compose.override.yml",
               "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAIBJwB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-11T14:10:12.243Z"
+              "WhenOpened": "2024-05-11T14:10:12.243Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": ".dockerignore",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\.dockerignore",
               "RelativeDocumentMoniker": ".dockerignore",
               "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\.dockerignore",
               "RelativeToolTip": ".dockerignore",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAATAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-13T02:30:18.025Z"
+              "WhenOpened": "2024-05-13T02:30:18.025Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\launchSettings.json",
               "RelativeDocumentMoniker": "launchSettings.json",
@@ -458,35 +611,12 @@
               "RelativeToolTip": "launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-13T02:10:00.895Z"
+              "WhenOpened": "2024-05-13T02:10:00.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Program.cs",
-              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T05:57:40.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "BuildingBlocks.csproj",
-              "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "ToolTip": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-11T09:54:38.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
@@ -494,11 +624,12 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:17:16.159Z"
+              "WhenOpened": "2024-05-11T09:17:16.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "RelativeDocumentMoniker": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
@@ -506,7 +637,8 @@
               "RelativeToolTip": "BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T09:07:32.667Z"
+              "WhenOpened": "2024-05-11T09:07:32.667Z",
+              "EditorCaption": ""
             }
           ]
         }

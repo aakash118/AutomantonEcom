@@ -1,5 +1,3 @@
-using Marten;
-using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,11 +11,14 @@ builder.Services.AddMarten(config =>
 builder.Services.AddMediatR(config =>
 {
     config.RegisterServicesFromAssembly(typeof(Program).Assembly);
+    config.AddOpenBehavior(typeof(CustomValidationPipelineBehaviour<,>));
 });
+builder.Services.AddValidatorsFromAssembly(typeof(Program).Assembly);
+builder.Services.AddExceptionHandler<CustomExceptionHandler>();
 var app = builder.Build();
 
 
 //Add Http request and usings
 app.MapCarter();
-
+app.UseExceptionHandler(options => { });
 app.Run();

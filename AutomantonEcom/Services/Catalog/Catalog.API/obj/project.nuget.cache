@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "6jnXYu6ygobr+JREqUg7La0KESviOmVhBGg0FlryHKsHCVXXdNVJpmb2Sqzr8buOcw6tdbnko2FVVGpf1uQfnw==",
+  "dgSpecHash": "4Tezo3igJLLnfBng+J7VaYfLwMDYZLqil11Rh6KhXxMEC3ngvGLtQq8MdOFO2qdDEJGQazb/RY7KWspA4diHww==",
   "success": true,
   "projectFilePath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\91932\\.nuget\\packages\\carter\\8.0.0\\carter.8.0.0.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\fastexpressioncompiler\\4.1.0\\fastexpressioncompiler.4.1.0.nupkg.sha512",
-    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\jasperfx.codegeneration\\3.5.3\\jasperfx.codegeneration.3.5.3.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\jasperfx.core\\1.5.1\\jasperfx.core.1.5.1.nupkg.sha512",

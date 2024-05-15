@@ -166,3 +166,6 @@ C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catal
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.pdb
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.genruntimeconfig.cache
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\obj\Debug\net8.0\ref\Catalog.API.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs

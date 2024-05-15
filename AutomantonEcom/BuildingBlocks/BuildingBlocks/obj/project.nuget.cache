@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YQgjNtfBa+gq/o1c2nIC0Z/bETVo5XTK6s/OFSd/6JHJJEfuft/xYYXNMWZlPgvDGFPqW0iDKNFK/pd7KSXwAg==",
+  "dgSpecHash": "WNpObuiV6mrVjqdjZ5F462OsPz1+nczOo25rA/kFkaWGWO2RUCPLDfrN7UYNL+psacT7uKdWfFrCzgggoXVqKQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\91932\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
