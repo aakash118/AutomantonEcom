@@ -35,7 +35,7 @@ services:
   basketdb:    
     container_name: basketdb_container
     restart: always
-    # set shared memory limit when using docker-compose
+    # set shared memory limit when using docker-compose 
     shm_size: 128mb
    
     ports:
