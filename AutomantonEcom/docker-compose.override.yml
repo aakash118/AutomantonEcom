@@ -17,8 +17,7 @@ version: '3.9'
 
 services:
 
-  catalogdb:
-    
+  catalogdb:    
     container_name: catalogdb_container
     restart: always
     # set shared memory limit when using docker-compose
@@ -33,8 +32,47 @@ services:
       POSTGRES_DB: catalogDB
     volumes:
       - postgres_catalog:/var/lib/postgresql/data
-  # adminer:
-  #   image: adminer
-  #   restart: always
+  basketdb:    
+    container_name: basketdb_container
+    restart: always
+    # set shared memory limit when using docker-compose
+    shm_size: 128mb
+   
+    ports:
+      - 5433:5432
+   
+    environment:
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgress
+      POSTGRES_DB: basketDB
+    volumes:
+      - postgres_basket:/var/lib/postgresql/data
+  
+  catalog.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_HTTPS_PORTS=8081
+      - ConnectionStrings__catalogconnectionstring=Server=catalogDB;Port=5432;Database=catalogDB;User Id=postgress;Password=postgres;Include Error Detail=true
+  
+    depends_on:
+      - catalogdb
+  
+    ports:
+      - "6000:8080"
+      - "6060:8081"
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+
+  # basket.api:
+  #   environment:
+  #     - ASPNETCORE_ENVIRONMENT=Development
+  #     - ASPNETCORE_HTTP_PORTS=8080
+  #     - ASPNETCORE_HTTPS_PORTS=8081
   #   ports:
-  #     - 8080:8080
+  #     - "8080"
+  #     - "8081"
+  #   volumes:
+  #     - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+  #     - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro

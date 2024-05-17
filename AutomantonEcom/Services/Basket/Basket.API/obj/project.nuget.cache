@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L91EfrMGoWl+8KuO2gf10XqP/bCh9Wobo2I5O5CyVFEcLob+XfEUD3Fa1OKOQElOl3WAPf+oe7oG/BvZ8zSE4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91932\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

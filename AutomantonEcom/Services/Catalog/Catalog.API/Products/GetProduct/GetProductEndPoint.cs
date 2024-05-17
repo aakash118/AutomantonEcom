@@ -15,14 +15,16 @@ namespace Catalog.API.Products.GetProduct
                 .WithDisplayName("Get products")
                 .Produces(StatusCodes.Status200OK)
                 .ProducesProblem(StatusCodes.Status400BadRequest)
-                .WithName("getallproducts");         
+                .WithName("getallproducts");
         }
 
-        public record GetAllProductQueryResult(IReadOnlyList<Product> Products);
+        public record GetProductRequest(int? PageNumber = 1, int? PageSize = 10);
+        public record GetAllProductQueryResult(IEnumerable<Product> Products);
 
-        private async Task<GetAllProductQueryResult> GetAllProducts(HttpContext context, ISender sender)
+        private async Task<GetAllProductQueryResult> GetAllProducts([AsParameters] GetProductRequest request, ISender sender)
         {
-            var result = await sender.Send(new GetProductQuery());
+            var query = request.Adapt<GetProductQuery>();
+            var result = await sender.Send(query);
             var response = result.Adapt<GetAllProductQueryResult>();
             return response;
         }

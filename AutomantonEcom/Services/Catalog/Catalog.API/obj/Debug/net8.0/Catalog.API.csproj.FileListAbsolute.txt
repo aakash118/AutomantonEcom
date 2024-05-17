@@ -169,3 +169,7 @@ C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catal
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\Data\ProductSeedData.json
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.NpgSql.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Client.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Catalog\Catalog.API\bin\Debug\net8.0\HealthChecks.UI.Core.dll

@@ -12,7 +12,7 @@ namespace BuildingBlocks.Exceptions.Handler
         public async ValueTask<bool> TryHandleAsync(HttpContext httpContext, Exception exception, CancellationToken cancellationToken)
         {
 
-            logger.LogInformation($"{exception.Message}");
+            logger.LogInformation($"Exception type - {exception.GetType().Name} and error is{exception.Message}, error occured at {DateTime.UtcNow}");
             (string Detail, string Title, int StatusCode) details = exception switch
             {
 
@@ -46,7 +46,7 @@ namespace BuildingBlocks.Exceptions.Handler
                 Title = details.Title,
                 Instance = httpContext.Request.Path
             };
-          
+
             exceptionDetails.Extensions!.Add("traceid", httpContext.TraceIdentifier);
             if (exception is ValidationException validationException)
             {
