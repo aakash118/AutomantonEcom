@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8bnZBPBSjWLRi/pdh5s7IJ+dDKZFTXDcqESNkB23SGY=",
+  "Source": "Discount.gRPC.API",
+  "BasePath": "_content/Discount.gRPC.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
