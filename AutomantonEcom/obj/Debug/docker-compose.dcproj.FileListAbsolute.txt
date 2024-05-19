@@ -61,3 +61,16 @@ C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\zh-Hans\Micr
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Basket.API.deps.json
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Basket.API.runtimeconfig.json
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Basket.API.exe
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Basket.API.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Scrutor.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\StackExchange.Redis.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\Basket.API.pdb
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\bin\Debug\HealthChecks.Redis.dll

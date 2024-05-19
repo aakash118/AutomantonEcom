@@ -19,14 +19,19 @@ services:
   basketdb:
     image: postgres
 
-  # basket.api:
-  #   image: ${DOCKER_REGISTRY-}basketapi
-  #   build:
-  #     context: .
-  #     dockerfile: Services/Basket/Basket.API/Dockerfile
+  basketdistributedcache:
+    image: redis
+
+
+  basket.api:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: .
+      dockerfile: Services/Basket/Basket.API/Dockerfile
 
 volumes:
   postgres_catalog:
   postgres_basket:  
+
 
 
