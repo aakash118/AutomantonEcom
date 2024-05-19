@@ -1,18 +1,3 @@
-# version: '4.29'
-
-# services:
-#   catalogdb:
-#     container_name: catalogDB
-#     ports:
-#       - 5432:5432
-#     volumes:
-#       - ~/apps/postgres:/var/lib/postgresql/data
-#     environment:
-#       - POSTGRES_PASSWORD=postgres
-#       - POSTGRES_USER=postgres
-#       - POSTGRES_DB=catalogDB
-#     restart: always
-
 version: '3.9'
 
 services:
@@ -32,6 +17,7 @@ services:
       POSTGRES_DB: catalogDB
     volumes:
       - postgres_catalog:/var/lib/postgresql/data
+
   basketdb:    
     container_name: basketdb_container
     restart: always
@@ -40,20 +26,26 @@ services:
    
     ports:
       - 5433:5432
-   
     environment:
       POSTGRES_PASSWORD: postgres
       POSTGRES_USER: postgress
       POSTGRES_DB: basketDB
     volumes:
       - postgres_basket:/var/lib/postgresql/data
-  
+
+  basketdistributedcache:
+    container_name: basket_redis_container
+    restart: always
+    ports:
+      - 6379:6379 
+
+
   catalog.api:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ASPNETCORE_HTTP_PORTS=8080
       - ASPNETCORE_HTTPS_PORTS=8081
-      - ConnectionStrings__catalogconnectionstring=Server=catalogDB;Port=5432;Database=catalogDB;User Id=postgress;Password=postgres;Include Error Detail=true
+      - ConnectionStrings__catalogconnectionstring=Server=catalogdb;Port=5432;Database=catalogDB;User Id=postgress;Password=postgres;Include Error Detail=true
   
     depends_on:
       - catalogdb
@@ -63,16 +55,23 @@ services:
       - "6060:8081"
     volumes:
       - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
-      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro  
 
-  # basket.api:
-  #   environment:
-  #     - ASPNETCORE_ENVIRONMENT=Development
-  #     - ASPNETCORE_HTTP_PORTS=8080
-  #     - ASPNETCORE_HTTPS_PORTS=8081
-  #   ports:
-  #     - "8080"
-  #     - "8081"
-  #   volumes:
-  #     - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
-  #     - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
+  basket.api:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_HTTP_PORTS=8080
+      - ASPNETCORE_HTTPS_PORTS=8081
+      - ConnectionStrings__basketconnectionstring=Server=basketdb;Port=5432;Database=basketDB;User Id=postgress;Password=postgres;Include Error Detail=true
+      - ConnectionStrings__basketredis=basketdistributedcache:6379
+    ports:
+      - "6001:8080"
+      - "6061:8081"
+    depends_on:
+      - basketdb
+      - basketdistributedcache
+  
+  
+    volumes:
+      - ${APPDATA}/Microsoft/UserSecrets:/home/app/.microsoft/usersecrets:ro
+      - ${APPDATA}/ASP.NET/Https:/home/app/.aspnet/https:ro
