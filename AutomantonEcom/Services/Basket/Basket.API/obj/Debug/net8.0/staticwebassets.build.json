@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "Dq05Wuau+KWr4ZiWDBEYHoFeOLfZvN0PDgbMq+PaKiE=",
+  "Hash": "7UJVHvvjZHmOp53K4clTt7w7fCudGrqKw8REbjSPlhs=",
   "Source": "Basket.API",
   "BasePath": "_content/Basket.API",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Discount\\Discount.gRPC.API\\Discount.gRPC.API.csproj",
+      "Version": 2,
+      "Source": "Discount.gRPC.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }
