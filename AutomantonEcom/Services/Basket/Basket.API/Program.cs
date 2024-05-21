@@ -1,3 +1,5 @@
+using Discount.gRPC.API;
+
 var builder = WebApplication.CreateBuilder(args);
 
 //builder services
@@ -25,6 +27,17 @@ builder.Services.AddStackExchangeRedisCache(options =>
 {
     options.Configuration = builder.Configuration.GetConnectionString("basketredis");
 });
+builder.Services.AddGrpcClient<DiscountProtoService.DiscountProtoServiceClient>(options =>
+{
+    options.Address = new Uri(builder.Configuration["GrpcSettings:discounturl"]!);
+}).ConfigurePrimaryHttpMessageHandler(() =>
+{
+    var handler = new HttpClientHandler
+    {
+        ServerCertificateCustomValidationCallback = HttpClientHandler.DangerousAcceptAnyServerCertificateValidator,
+    };
+    return handler;
+});//Only for dev
 var app = builder.Build();
 
 

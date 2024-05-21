@@ -2,6 +2,7 @@
 
 
 
+using System.Net;
 using static Basket.API.Basket.StoreBasket.StoreBasketEndpoint;
 
 namespace Basket.API.Basket.StoreBasket
@@ -10,7 +11,12 @@ namespace Basket.API.Basket.StoreBasket
     {
         public void AddRoutes(IEndpointRouteBuilder app)
         {
-            app.MapPost("/basket", StoreBasket);
+            app.MapPost("/basket", StoreBasket)
+                .WithName("storebasket")
+                .WithDescription("Create a basket")
+                .Produces(StatusCodes.Status201Created)
+                .ProducesProblem(StatusCodes.Status400BadRequest)
+                .WithTags("storebasket");
         }
         public record StoreBasketRequest(string username, List<ShoppingCartItem> items);
 

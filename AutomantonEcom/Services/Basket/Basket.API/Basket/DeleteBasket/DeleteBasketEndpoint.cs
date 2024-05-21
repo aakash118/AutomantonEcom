@@ -6,7 +6,12 @@ namespace Basket.API.Basket.DeleteBasket
     {
         public void AddRoutes(IEndpointRouteBuilder app)
         {
-            app.MapDelete("/basket/{id:guid}", DeleteBasket);
+            app.MapDelete("/basket/{id:guid}", DeleteBasket)
+                .WithName("deletebasket")
+                .WithDescription("deletebasket")
+                .Produces(StatusCodes.Status202Accepted)
+                .ProducesProblem(StatusCodes.Status400BadRequest)
+                .WithTags("deletebasket");
         }
 
        
