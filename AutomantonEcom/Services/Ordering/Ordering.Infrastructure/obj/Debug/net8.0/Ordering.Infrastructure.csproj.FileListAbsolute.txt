@@ -1,0 +1,16 @@
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.deps.json
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\Ordering.Infrastructure.pdb
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.AssemblyInfo.cs
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.sourcelink.json
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\refint\Ordering.Infrastructure.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.pdb
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\ref\Ordering.Infrastructure.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\91932\source\repos\AutomantonEcom\AutomantonEcom\Services\Ordering\Ordering.Infrastructure\obj\Debug\net8.0\Ordering.7AF05425.Up2Date
