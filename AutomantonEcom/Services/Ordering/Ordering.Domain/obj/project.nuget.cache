@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3E5QMjCBsMAnSTEHc+aGCn+KTrioWaHRD6bE/BsMCerKARBLHGd1FudvSPX69jEoANKwnfgbusqod0Qkx/q3bg==",
+  "dgSpecHash": "90Zy72GyH3x0tJvwlNEC80Ue9vWaa0mvbcA0kFco3vnvwF2eVdUJ0Bu9MgimlcqhtvUeU5CX/JeUeXZq9ukoeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\91932\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\91932\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

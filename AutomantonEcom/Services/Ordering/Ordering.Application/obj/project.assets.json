@@ -139,24 +139,14 @@
       "Ordering.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Ordering.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Ordering.Domain.dll": {}
-        }
-      },
-      "Ordering.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "BuildingBlocks": "1.0.0"
+          "MediatR": "12.2.0"
         },
         "compile": {
-          "bin/placeholder/Ordering.Infrastructure.dll": {}
+          "bin/placeholder/Ordering.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Ordering.Infrastructure.dll": {}
+          "bin/placeholder/Ordering.Domain.dll": {}
         }
       }
     }
@@ -322,18 +312,12 @@
       "type": "project",
       "path": "../Ordering.Domain/Ordering.Domain.csproj",
       "msbuildProject": "../Ordering.Domain/Ordering.Domain.csproj"
-    },
-    "Ordering.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../Ordering.Infrastructure/Ordering.Infrastructure.csproj",
-      "msbuildProject": "../Ordering.Infrastructure/Ordering.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "BuildingBlocks >= 1.0.0",
-      "Ordering.Domain >= 1.0.0",
-      "Ordering.Infrastructure >= 1.0.0"
+      "Ordering.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -368,9 +352,6 @@
             },
             "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj": {
               "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj"
-            },
-            "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj"
             }
           }
         }

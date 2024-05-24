@@ -115,9 +115,6 @@
               },
               "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj": {
                 "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj"
-              },
-              "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj"
               }
             }
           }
@@ -196,70 +193,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-        "projectName": "Ordering.Infrastructure",
-        "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\Ordering.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\91932\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\Services\\Ordering\\Ordering.Infrastructure\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\91932\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
-                "projectPath": "C:\\Users\\91932\\source\\repos\\AutomantonEcom\\AutomantonEcom\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",

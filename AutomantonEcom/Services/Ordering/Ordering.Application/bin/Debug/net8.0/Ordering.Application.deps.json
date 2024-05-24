@@ -9,8 +9,7 @@
       "Ordering.Application/1.0.0": {
         "dependencies": {
           "BuildingBlocks": "1.0.0",
-          "Ordering.Domain": "1.0.0",
-          "Ordering.Infrastructure": "1.0.0"
+          "Ordering.Domain": "1.0.0"
         },
         "runtime": {
           "Ordering.Application.dll": {}
@@ -101,16 +100,11 @@
         }
       },
       "Ordering.Domain/1.0.0": {
-        "runtime": {
-          "Ordering.Domain.dll": {}
-        }
-      },
-      "Ordering.Infrastructure/1.0.0": {
         "dependencies": {
-          "BuildingBlocks": "1.0.0"
+          "MediatR": "12.2.0"
         },
         "runtime": {
-          "Ordering.Infrastructure.dll": {}
+          "Ordering.Domain.dll": {}
         }
       }
     }
@@ -183,11 +177,6 @@
       "sha512": ""
     },
     "Ordering.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Ordering.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
